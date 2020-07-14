@@ -1,0 +1,69 @@
+#app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vmin;
+}
+
+/* Toby Font */
+@font-face {
+  font-family: TobyComicText-Regular;
+  src: url("../assets/images/TobyComicText-Regular.otf") format("opentype");
+}
+
+/* background colour */
+.towpink {
+background-color: rgb(245, 153, 159);
+}
+/* normal text styling */
+.text {
+  width: 30vw;
+  font-size: 2vh;
+  text-align: center;
+  text-decoration: none;
+  font-family: TobyComicText-Regular;
+}
+
+/* hyperlink styling */
+.hyperlinks a{
+  text-decoration: none!important;
+  text-align: center;
+  color: black !important;
+  word-spacing: 40px;
+  font-size: 4vh;
+  font-family: TobyComicText-Regular;
+}
+
+/* logo image */
+.logowidth {
+  max-width: 40vw;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto 
+}
+
+.logo-container img {
+  margin: 0px 15px;
+  padding-top: 10px;
+}
+
+/* social media links */
+.socialmedia {
+  width: 3vw;
+}
+
+/* animation */
+.bounce {
+  animation-name: bounce-1;
+  animation-timing-function: ease;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes bounce-1 {
+  0%   { transform: translateY(0); }
+  50%  { transform: translateY(-10px); }
+  100% { transform: translateY(0); }
+}
+

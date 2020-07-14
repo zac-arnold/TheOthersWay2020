@@ -7,9 +7,9 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `Gatsby Tinderbox`,
-    description: `Bare bones boilerplate for Gatsby`,
-    author: `Lane Le Prevost-Smith`,
+    title: `The Others Way 2020`,
+    description: `Website for Flying Out's The Others Way Festival`,
+    author: `Zac Arnold`,
   },
   plugins: [
     `gatsby-transformer-sharp`,
