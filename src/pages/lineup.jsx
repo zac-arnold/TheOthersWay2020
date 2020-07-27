@@ -8,7 +8,6 @@ import Youtube from '../components/Youtube'
 import SocialMedia from '../components/SocialMedia'
 
 export default function lineup () {
-  console.log(lineupdata)
   return (
 
   <div id='app'>

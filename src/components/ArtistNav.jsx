@@ -6,14 +6,14 @@ import lineupdata from '../assets/data/lineupdata.json'
 
 export default function ArtistNav () {
 
-const artistKeys = Object.keys(lineupdata.artists)
+// console.log('lineupdata', lineupdata.artists[2].name)
 
   return (
     <>
       <p>Artist Nav</p>
       <ul>
-        {artistKeys.map(key => (
-        <li key={key}><Link to={`/lineup/${key}`}>{key}</Link></li>
+        {lineupdata.artists.map(key => (
+        <li key={key.id}><Link to={`/lineup/${key.name}`}>{key.name}</Link></li>
         ))}
       </ul>
     </>
