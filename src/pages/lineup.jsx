@@ -1,4 +1,5 @@
 import React from 'react'
+import { Router } from '@reach/router'
 
 import lineupdata from '../assets/data/lineupdata.json'
 import ArtistNav from '../components/ArtistNav'
@@ -12,11 +13,13 @@ export default function lineup () {
 
   <div id='app'>
     <p>hello world</p>
-    <ArtistNav />
-    <Bio />
-    <PressPhoto />
-    <Youtube />
-    <SocialMedia />
+    <Router>
+      <ArtistNav />
+      <Bio />
+      <PressPhoto />
+      <Youtube />
+      <SocialMedia />
+    </Router>
   </div>
   )
 }
