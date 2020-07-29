@@ -3,10 +3,7 @@ import { Router } from '@reach/router'
 
 import lineupdata from '../assets/data/lineupdata.json'
 import ArtistNav from '../components/ArtistNav'
-import Bio from '../components/Bio'
-import PressPhoto from '../components/PressPhoto'
-import Youtube from '../components/Youtube'
-import SocialMedia from '../components/SocialMedia'
+import IndividualArtist from '../components/IndividualArtist'
 
 export default function lineup () {
   return (
@@ -15,10 +12,7 @@ export default function lineup () {
     <p>hello world</p>
     <Router>
       <ArtistNav />
-      <Bio />
-      <PressPhoto />
-      <Youtube />
-      <SocialMedia />
+      <IndividualArtist />
     </Router>
   </div>
   )
