@@ -2,17 +2,9 @@ import React, { Component } from 'react'
 import lineupdata from '../assets/data/lineupdata.json'
 
 
-export class Bio extends Component {
-state = {
+export default function Bio () {
 
-}
-
-
-
-  render() {
-
-
-    return (
+  return (
       <div>
         <p>Bio</p>
         <ul>
@@ -22,7 +14,6 @@ state = {
         </ul>
       </div>
     )
-  }
+  
 }
 
-export default Bio

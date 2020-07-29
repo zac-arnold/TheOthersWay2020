@@ -1,17 +1,24 @@
 const path = require("path")
+const data = require("./src/assets/data/lineupdata.json")
 
-exports.onCreatepage = async ({ page, actions }) => {
-  const { Createpage } = actions
+exports.createPages = ({ boundActionCreators }) => {
+  const { createPage } = boundActionCreators;
+ 
+  // Your component that should be rendered for every item in JSON.
+ const IndividualArtist = path.resolve(`src/IndividualArtist.jsx`);
 
-  // page.matchPath is a special key that is used for matching pages 
-  // only on the client.
-  console.log("Page - ", page.path)
-  if (page.path.match(/^\/lineup/)){
-    // Update the page
+  // Create pages for each JSON entry.
+  data.forEach(({ page }) => {
+    const path = page;
+
     createPage({
-      path: "/lineup",
-      matchPath: "/lineup/*",
-      component: path.resolve(`src/pages/lineup.jsx`),
-    })
-  }
-}
+      path,
+      component: IndividualArtist,
+
+      // Send additional data to page from JSON (or query inside template)
+      context: {
+        path
+      }
+    });
+  });
+};

@@ -6,8 +6,6 @@ import lineupdata from '../assets/data/lineupdata.json'
 
 export default function ArtistNav () {
 
-// console.log('lineupdata', lineupdata.artists[2].name)
-
   return (
     <>
       <p>Artist Nav</p>
