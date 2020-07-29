@@ -1,17 +1,17 @@
 const path = require("path")
+const data = require('./src/assets/data/lineupdata.json')
 
-exports.onCreatepage = async ({ page, actions }) => {
-  const { Createpage } = actions
+exports.createPages = ({ actions }) => {
+  const { createPage } = actions
 
-  // page.matchPath is a special key that is used for matching pages 
-  // only on the client.
-  console.log("Page - ", page.path)
-  if (page.path.match(/^\/lineup/)){
-    // Update the page
+  const component = path.resolve('./src/templates/Artist.jsx')
+  
+  data.artists.forEach(artist => {
+    let path = `/lineup/${artist.name}`
     createPage({
-      path: "/lineup",
-      matchPath: "/lineup/*",
-      component: path.resolve(`src/pages/lineup.jsx`),
+      path,
+      component,
+      context: artist
     })
-  }
+  });
 }

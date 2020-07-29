@@ -1,11 +1,8 @@
 import React from 'react'
-import lineupdata from '../assets/data/lineupdata.json'
 
-export default function PressPhoto () {
-
+export default function PressPhoto(props) {
   return (
-
-  <p>Press Photo</p>
+    <img src={props.photo} alt="" />
   )
 }
 
