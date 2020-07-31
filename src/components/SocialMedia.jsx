@@ -1,11 +1,15 @@
 import React from 'react'
-import lineupdata from '../assets/data/lineupdata.json'
 
-export default function SocialMedia () {
-
+export default function SocialMedia(props) {
+  const { twitter, instagram, facebook, spotify, bandcamp } = props.socialMedia
   return (
-
-  <p>Social Media</p>
+    <div className="linkContainer">
+      <a href={twitter}>Twitter </a>
+      <a href={instagram}>Instagram </a>
+      <a href={facebook}>Facebook </a>
+      <a href={spotify}>Spotify </a>
+      <a href={bandcamp}>Bandcamp</a>
+    </div>
   )
 }
 

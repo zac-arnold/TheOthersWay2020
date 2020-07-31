@@ -1,24 +1,19 @@
 const path = require("path")
-const data = require("./src/assets/data/lineupdata.json")
 
-exports.createPages = ({ boundActionCreators }) => {
-  const { createPage } = boundActionCreators;
- 
-  // Your component that should be rendered for every item in JSON.
- const IndividualArtist = path.resolve(`src/IndividualArtist.jsx`);
+const data = require('./src/assets/data/lineupdata.json')
 
-  // Create pages for each JSON entry.
-  data.forEach(({ page }) => {
-    const path = page;
+exports.createPages = ({ actions }) => {
+  const { createPage } = actions
 
+  const component = path.resolve('./src/templates/Artist.jsx')
+  
+  data.artists.forEach(artist => {
+    let path = `/lineup/${artist.name}`
     createPage({
       path,
-      component: IndividualArtist,
-
-      // Send additional data to page from JSON (or query inside template)
-      context: {
-        path
-      }
-    });
+      component,
+      context: artist
+    })
   });
-};
+}
+

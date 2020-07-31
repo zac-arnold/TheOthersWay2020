@@ -1,19 +1,10 @@
-import React, { Component } from 'react'
-import lineupdata from '../assets/data/lineupdata.json'
 
+import React from 'react'
 
-export default function Bio () {
-
+export default function Bio(props) {
   return (
-      <div>
-        <p>Bio</p>
-        <ul>
-          {lineupdata.artists.map(key => (
-          <li key={key.id}>{key.bio}</li>
-          ))}
-        </ul>
-      </div>
-    )
-  
-}
-
+    <div>
+      <h3>Bio</h3>
+      <p>{props.bio}</p>
+    </div>
+  )

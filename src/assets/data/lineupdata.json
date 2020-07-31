@@ -1,76 +1,88 @@
 {
-  "artists":[
-    { 
-    "id": 1,
-    "name": "The Beths", 
-    "bio": "New Zealand four-piece The Beths channel their friendship into high-energy guitar pop with a smart lyrical bite. 2018 was their breakout year, beginning with signing to Carpark Records and Dew Process, before releasing the internationally acclaimed debut album Future Me Hates Me, which was heralded as one the stand-out music releases of that year. The Beths have toured relentlessly on the back of Future Me Hates Me, getting audiences hooked on their ebullient sound. After selling out shows across Australia, New Zealand, North America, the UK and Europe in 2018, the band are proving to be one of the most in-demand live acts on the planet.",
-    "img": "0019363669_10.jpg",
-    "video": "<iframe width='1597' height='621' src='https://www.youtube.com/embed/lvYrJxNwW5I' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
-    "twitter": "https://twitter.com/lizstokedstokes",
-    "instagram": "https://www.instagram.com/lizstokedstokes/",
-    "facebook": "https://www.facebook.com/thebethsnz/",
-    "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin",
-    "bandcamp": "https://thebethsnz.bandcamp.com/music" 
+  "artists": [
+    {
+      "id": 1,
+      "name": "The Beths",
+      "bio": "New Zealand four-piece The Beths channel their friendship into high-energy guitar pop with a smart lyrical bite. 2018 was their breakout year, beginning with signing to Carpark Records and Dew Process, before releasing the internationally acclaimed debut album Future Me Hates Me, which was heralded as one the stand-out music releases of that year. The Beths have toured relentlessly on the back of Future Me Hates Me, getting audiences hooked on their ebullient sound. After selling out shows across Australia, New Zealand, North America, the UK and Europe in 2018, the band are proving to be one of the most in-demand live acts on the planet.",
+      "img": "0019363669_10.jpg",
+      "video": "https://www.youtube.com/embed/lvYrJxNwW5I",
+      "socialMedia": {
+        "twitter": "https://twitter.com/lizstokedstokes",
+        "instagram": "https://www.instagram.com/lizstokedstokes/",
+        "facebook": "https://www.facebook.com/thebethsnz/",
+        "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin",
+        "bandcamp": "https://thebethsnz.bandcamp.com/music"
+      }
     },
-    { 
-    "id": 2,
-    "name": "Green Grove", 
-    "bio": "New Zealand four-piece The Beths channel their friendship into high-energy guitar pop with a smart lyrical bite. 2018 was their breakout year, beginning with signing to Carpark Records and Dew Process, before releasing the internationally acclaimed debut album Future Me Hates Me, which was heralded as one the stand-out music releases of that year. The Beths have toured relentlessly on the back of Future Me Hates Me, getting audiences hooked on their ebullient sound. After selling out shows across Australia, New Zealand, North America, the UK and Europe in 2018, the band are proving to be one of the most in-demand live acts on the planet.",
-    "img": "0019363669_10.jpg",
-    "video": "<iframe width='1597' height='621' src='https://www.youtube.com/embed/lvYrJxNwW5I' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
-    "twitter": "https://twitter.com/lizstokedstokes",
-    "instagram": "https://www.instagram.com/lizstokedstokes/",
-    "facebook": "https://www.facebook.com/thebethsnz/",
-    "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin",
-    "bandcamp": "https://thebethsnz.bandcamp.com/music" 
+    {
+      "id": 2,
+      "name": "Green Grove",
+      "bio": "New Zealand four-piece The Beths channel their friendship into high-energy guitar pop with a smart lyrical bite. 2018 was their breakout year, beginning with signing to Carpark Records and Dew Process, before releasing the internationally acclaimed debut album Future Me Hates Me, which was heralded as one the stand-out music releases of that year. The Beths have toured relentlessly on the back of Future Me Hates Me, getting audiences hooked on their ebullient sound. After selling out shows across Australia, New Zealand, North America, the UK and Europe in 2018, the band are proving to be one of the most in-demand live acts on the planet.",
+      "img": "0019363669_10.jpg",
+      "video": "https://www.youtube.com/embed/lvYrJxNwW5I",
+      "socialMedia": {
+        "twitter": "https://twitter.com/lizstokedstokes",
+        "instagram": "https://www.instagram.com/lizstokedstokes/",
+        "facebook": "https://www.facebook.com/thebethsnz/",
+        "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin",
+        "bandcamp": "https://thebethsnz.bandcamp.com/music"
+      }
     },
-    { 
-    "id": 3,
-    "name": "Amamelia", 
-    "bio": "New Zealand four-piece The Beths channel their friendship into high-energy guitar pop with a smart lyrical bite. 2018 was their breakout year, beginning with signing to Carpark Records and Dew Process, before releasing the internationally acclaimed debut album Future Me Hates Me, which was heralded as one the stand-out music releases of that year. The Beths have toured relentlessly on the back of Future Me Hates Me, getting audiences hooked on their ebullient sound. After selling out shows across Australia, New Zealand, North America, the UK and Europe in 2018, the band are proving to be one of the most in-demand live acts on the planet.",
-    "img": "0019363669_10.jpg",
-    "video": "<iframe width='1597' height='621' src='https://www.youtube.com/embed/lvYrJxNwW5I' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
-    "twitter": "https://twitter.com/lizstokedstokes",
-    "instagram": "https://www.instagram.com/lizstokedstokes/",
-    "facebook": "https://www.facebook.com/thebethsnz/",
-    "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin",
-    "bandcamp": "https://thebethsnz.bandcamp.com/music" 
+    {
+      "id": 3,
+      "name": "Amamelia",
+      "bio": "New Zealand four-piece The Beths channel their friendship into high-energy guitar pop with a smart lyrical bite. 2018 was their breakout year, beginning with signing to Carpark Records and Dew Process, before releasing the internationally acclaimed debut album Future Me Hates Me, which was heralded as one the stand-out music releases of that year. The Beths have toured relentlessly on the back of Future Me Hates Me, getting audiences hooked on their ebullient sound. After selling out shows across Australia, New Zealand, North America, the UK and Europe in 2018, the band are proving to be one of the most in-demand live acts on the planet.",
+      "img": "0019363669_10.jpg",
+      "video": "https://www.youtube.com/embed/lvYrJxNwW5I",
+      "socialMedia": {
+        "twitter": "https://twitter.com/lizstokedstokes",
+        "instagram": "https://www.instagram.com/lizstokedstokes/",
+        "facebook": "https://www.facebook.com/thebethsnz/",
+        "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin",
+        "bandcamp": "https://thebethsnz.bandcamp.com/music"
+      }
     },
-    { 
-    "id": 4,
-    "name": "Baby Zionov", 
-    "bio": "New Zealand four-piece The Beths channel their friendship into high-energy guitar pop with a smart lyrical bite. 2018 was their breakout year, beginning with signing to Carpark Records and Dew Process, before releasing the internationally acclaimed debut album Future Me Hates Me, which was heralded as one the stand-out music releases of that year. The Beths have toured relentlessly on the back of Future Me Hates Me, getting audiences hooked on their ebullient sound. After selling out shows across Australia, New Zealand, North America, the UK and Europe in 2018, the band are proving to be one of the most in-demand live acts on the planet.",
-    "img": "0019363669_10.jpg",
-    "video": "<iframe width='1597' height='621' src='https://www.youtube.com/embed/lvYrJxNwW5I' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
-    "twitter": "https://twitter.com/lizstokedstokes",
-    "instagram": "https://www.instagram.com/lizstokedstokes/",
-    "facebook": "https://www.facebook.com/thebethsnz/",
-    "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin",
-    "bandcamp": "https://thebethsnz.bandcamp.com/music" 
+    {
+      "id": 4,
+      "name": "Baby Zionov",
+      "bio": "New Zealand four-piece The Beths channel their friendship into high-energy guitar pop with a smart lyrical bite. 2018 was their breakout year, beginning with signing to Carpark Records and Dew Process, before releasing the internationally acclaimed debut album Future Me Hates Me, which was heralded as one the stand-out music releases of that year. The Beths have toured relentlessly on the back of Future Me Hates Me, getting audiences hooked on their ebullient sound. After selling out shows across Australia, New Zealand, North America, the UK and Europe in 2018, the band are proving to be one of the most in-demand live acts on the planet.",
+      "img": "0019363669_10.jpg",
+      "video": "https://www.youtube.com/embed/lvYrJxNwW5I",
+      "socialMedia": {
+        "twitter": "https://twitter.com/lizstokedstokes",
+        "instagram": "https://www.instagram.com/lizstokedstokes/",
+        "facebook": "https://www.facebook.com/thebethsnz/",
+        "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin",
+        "bandcamp": "https://thebethsnz.bandcamp.com/music"
+      }
     },
-    { 
-    "id": 5,
-    "name": "Dateline", 
-    "bio": "New Zealand four-piece The Beths channel their friendship into high-energy guitar pop with a smart lyrical bite. 2018 was their breakout year, beginning with signing to Carpark Records and Dew Process, before releasing the internationally acclaimed debut album Future Me Hates Me, which was heralded as one the stand-out music releases of that year. The Beths have toured relentlessly on the back of Future Me Hates Me, getting audiences hooked on their ebullient sound. After selling out shows across Australia, New Zealand, North America, the UK and Europe in 2018, the band are proving to be one of the most in-demand live acts on the planet.",
-    "img": "0019363669_10.jpg",
-    "video": "<iframe width='1597' height='621' src='https://www.youtube.com/embed/lvYrJxNwW5I' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
-    "twitter": "https://twitter.com/lizstokedstokes",
-    "instagram": "https://www.instagram.com/lizstokedstokes/",
-    "facebook": "https://www.facebook.com/thebethsnz/",
-    "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin",
-    "bandcamp": "https://thebethsnz.bandcamp.com/music" 
+    {
+      "id": 5,
+      "name": "Dateline",
+      "bio": "New Zealand four-piece The Beths channel their friendship into high-energy guitar pop with a smart lyrical bite. 2018 was their breakout year, beginning with signing to Carpark Records and Dew Process, before releasing the internationally acclaimed debut album Future Me Hates Me, which was heralded as one the stand-out music releases of that year. The Beths have toured relentlessly on the back of Future Me Hates Me, getting audiences hooked on their ebullient sound. After selling out shows across Australia, New Zealand, North America, the UK and Europe in 2018, the band are proving to be one of the most in-demand live acts on the planet.",
+      "img": "0019363669_10.jpg",
+      "video": "https://www.youtube.com/embed/lvYrJxNwW5I",
+      "socialMedia": {
+        "twitter": "https://twitter.com/lizstokedstokes",
+        "instagram": "https://www.instagram.com/lizstokedstokes/",
+        "facebook": "https://www.facebook.com/thebethsnz/",
+        "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin",
+        "bandcamp": "https://thebethsnz.bandcamp.com/music"
+      }
     },
-    { 
-    "id": 6,
-    "name": "K M T P", 
-    "bio": "New Zealand four-piece The Beths channel their friendship into high-energy guitar pop with a smart lyrical bite. 2018 was their breakout year, beginning with signing to Carpark Records and Dew Process, before releasing the internationally acclaimed debut album Future Me Hates Me, which was heralded as one the stand-out music releases of that year. The Beths have toured relentlessly on the back of Future Me Hates Me, getting audiences hooked on their ebullient sound. After selling out shows across Australia, New Zealand, North America, the UK and Europe in 2018, the band are proving to be one of the most in-demand live acts on the planet.",
-    "img": "0019363669_10.jpg",
-    "video": "<iframe width='1597' height='621' src='https://www.youtube.com/embed/lvYrJxNwW5I' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
-    "twitter": "https://twitter.com/lizstokedstokes",
-    "instagram": "https://www.instagram.com/lizstokedstokes/",
-    "facebook": "https://www.facebook.com/thebethsnz/",
-    "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin",
-    "bandcamp": "https://thebethsnz.bandcamp.com/music" 
+    {
+      "id": 6,
+      "name": "K M T P",
+      "bio": "New Zealand four-piece The Beths channel their friendship into high-energy guitar pop with a smart lyrical bite. 2018 was their breakout year, beginning with signing to Carpark Records and Dew Process, before releasing the internationally acclaimed debut album Future Me Hates Me, which was heralded as one the stand-out music releases of that year. The Beths have toured relentlessly on the back of Future Me Hates Me, getting audiences hooked on their ebullient sound. After selling out shows across Australia, New Zealand, North America, the UK and Europe in 2018, the band are proving to be one of the most in-demand live acts on the planet.",
+      "img": "0019363669_10.jpg",
+      "video": "https://www.youtube.com/embed/lvYrJxNwW5I",
+      "socialMedia": {
+        "twitter": "https://twitter.com/lizstokedstokes",
+        "instagram": "https://www.instagram.com/lizstokedstokes/",
+        "facebook": "https://www.facebook.com/thebethsnz/",
+        "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin",
+        "bandcamp": "https://thebethsnz.bandcamp.com/music"
+      }
     }
   ]
 }
