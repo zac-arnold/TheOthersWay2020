@@ -1,11 +1,8 @@
-import React from 'react'
-import { Router } from '@reach/router'
-
-import ArtistNav from '../components/ArtistNav'
+import IndividualArtist from '../components/IndividualArtist.jsx'
 
 export default function lineup() {
   return (
-
+    
     <div id='app'>
       <p>hello world</p>
       <Router>

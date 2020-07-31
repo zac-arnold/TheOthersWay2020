@@ -1,4 +1,5 @@
 const path = require("path")
+
 const data = require('./src/assets/data/lineupdata.json')
 
 exports.createPages = ({ actions }) => {
@@ -15,3 +16,4 @@ exports.createPages = ({ actions }) => {
     })
   });
 }
+
