@@ -5,7 +5,6 @@ import ArtistNav from '../components/ArtistNav'
 export default function lineup() {
   return (
     <div id='app'>
-      <p>hello world</p>
       <Router>
         <ArtistNav path='/lineup' />
       </Router>

@@ -16,6 +16,10 @@
 background-color: rgb(245, 153, 159);
 }
 /* normal text styling */
+.tobytext {
+  font-family: TobyComicText-Regular;
+}
+
 .text {
   width: 30vw;
   font-size: 2vh;
