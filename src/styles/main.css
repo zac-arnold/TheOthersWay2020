@@ -73,6 +73,11 @@ background-color: rgb(245, 153, 159);
 
 /* Artist Temmplate */
 
+.header {
+  width: 100%;
+  height: auto;
+}
+
 .imageContainer {
   width: 100vh;
   height: auto;
