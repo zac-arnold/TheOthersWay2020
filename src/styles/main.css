@@ -71,3 +71,9 @@ background-color: rgb(245, 153, 159);
   100% { transform: translateY(0); }
 }
 
+/* Artist Temmplate */
+
+.imageContainer {
+  width: 100vh;
+  height: auto;
+}
