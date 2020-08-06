@@ -18,7 +18,7 @@ export default function Home () {
       <p className="text">11 September 2020.</p>
 
       <p className="hyperlinks">
-        <a href="https://flyingout.co.nz/products/the-others-way-2020" target="_blank" >TICKETS </a>
+        <a href="https://flyingout.co.nz/products/the-others-way-2020" target="_blank" rel="noopener noreferrer" >TICKETS </a>
       </p>
 
       <div className="logo-container">

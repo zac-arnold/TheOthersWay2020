@@ -1,7 +1,10 @@
 import React from 'react'
 
 export default function PressPhoto (props) {
+  console.log('props.img', props.img)
   return (
-    <img src={props.img} alt=""/>
+    <div className="imageContainer">
+      <img src={props.img} />
+    </div>
   )
 }
