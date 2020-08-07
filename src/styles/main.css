@@ -11,10 +11,6 @@
   src: url("../assets/images/TobyComicText-Regular.otf") format("opentype");
 }
 
-/* background colour */
-.towpink {
-background-color: rgb(245, 153, 159);
-}
 /* normal text styling */
 .tobytext {
   font-family: TobyComicText-Regular;
@@ -73,6 +69,13 @@ background-color: rgb(245, 153, 159);
 
 /* Artist Temmplate */
 
+.artistNav {
+  border-style: solid;
+  width: 20vh;
+  height: auto;
+  float: left;
+}
+
 .header {
   width: 100%;
   height: auto;
@@ -82,3 +85,4 @@ background-color: rgb(245, 153, 159);
   width: 100vh;
   height: auto;
 }
+

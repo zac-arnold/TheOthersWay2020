@@ -8,7 +8,7 @@ export default function ArtistNav () {
 
   return (
     <>
-    <div className="tobytext">
+    <div className="tobytext artistNav">
       <p >Artist Nav</p>
       <ul>
         {lineupdata.artists.map(key => (

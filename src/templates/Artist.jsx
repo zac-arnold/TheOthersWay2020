@@ -14,10 +14,10 @@ export default function Artist({ pageContext }) {
       <Header />
       <ArtistNav />
       <h1>{name}</h1>
+      <SocialMedia socialMedia={socialMedia} />
       <Bio bio={bio} />
       <PressPhoto img={img} />
       <Youtube video={video} id={id} />
-      <SocialMedia socialMedia={socialMedia} />
     </div>
   )
 }

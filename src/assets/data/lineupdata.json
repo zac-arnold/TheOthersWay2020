@@ -2,87 +2,171 @@
   "artists": [
     {
       "id": 1,
-      "name": "The Beths",
-      "bio": "New Zealand four-piece The Beths channel their friendship into high-energy guitar pop with a smart lyrical bite. 2018 was their breakout year, beginning with signing to Carpark Records and Dew Process, before releasing the internationally acclaimed debut album Future Me Hates Me, which was heralded as one the stand-out music releases of that year. The Beths have toured relentlessly on the back of Future Me Hates Me, getting audiences hooked on their ebullient sound. After selling out shows across Australia, New Zealand, North America, the UK and Europe in 2018, the band are proving to be one of the most in-demand live acts on the planet.",
-      "img": "Dateline - Photo Credit Mason Fairey.JPG",
-      "video": "https://www.youtube.com/embed/lvYrJxNwW5I",
+      "name": "ADAM HATTAWAY AND THE HAUNTERS",
+      "bio": "One dark night, under the glow of a gas heater, Adam Hattaway and the Haunters emerged with a soul music anthology in one hand and a glass of red wine in the other. They’ll take you back to the good old days, circa. 1965, when a man could simply fall in love and cry about it. Based in Christchurch, Adam Hattaway and the Haunters have been building a national reputation as an electrifying live act. With sweltering hooks and starry-eyed narrative, their sound says ‘put your arm around the one you love and remember that they won’t be there forever – but maybe that’s a good thing.’ Adam Hattaway is for lovers. A born frontman, he performs alongside three Haunters; Elmore Jones, Liam Quinn, and Thomas Isbister. Their enigmatic live performances are often strengthened by emotive horn lines and organ from some of New Zealand’s filthiest players." ,
+      "img": "/images/AdamHattaway.jpg",
+      "video": "https://www.youtube.com/embed/Mena4rK3Lj0",
       "socialMedia": {
-        "twitter": "https://twitter.com/lizstokedstokes",
-        "instagram": "https://www.instagram.com/lizstokedstokes/",
-        "facebook": "https://www.facebook.com/thebethsnz/",
-        "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin",
-        "bandcamp": "https://thebethsnz.bandcamp.com/music"
+        "twitter": "",
+        "instagram": "https://www.instagram.com/adam_hattaway/",
+        "facebook": "https://www.facebook.com/adamhattawayandthehaunters/",
+        "spotify": "https://open.spotify.com/artist/6JOrgqVcK9EM8kuiyRf2QV?si=Xb_DmY5CQJmXYrGtpSl-VQ",
+        "bandcamp": "https://adamhattawayandthehaunters.bandcamp.com/"
       }
     },
     {
       "id": 2,
-      "name": "Green Grove",
-      "bio": "New Zealand four-piece The Beths channel their friendship into high-energy guitar pop with a smart lyrical bite. 2018 was their breakout year, beginning with signing to Carpark Records and Dew Process, before releasing the internationally acclaimed debut album Future Me Hates Me, which was heralded as one the stand-out music releases of that year. The Beths have toured relentlessly on the back of Future Me Hates Me, getting audiences hooked on their ebullient sound. After selling out shows across Australia, New Zealand, North America, the UK and Europe in 2018, the band are proving to be one of the most in-demand live acts on the planet.",
-      "img": "src/assets/images/band_photos/BabyZionov.jpg",
-      "video": "https://www.youtube.com/embed/lvYrJxNwW5I",
+      "name": "AMAMELIA",
+      "bio": "Amamelia is the musical project of Amelia Berry, a musician and songwriter currently based in Auckland. Her music combines breaks normally found in Jungle & Drum & Bass with a sugary synthetic pop sensibility. Throughout 2020 Amamelia has been teasing her audience with So Good and Sad and Lonely feat Junny, two singles from her debut album WOW! (due out before the years end via Sunreturn).Outside of Amamelia, Amelia can be found creating ambient soundscapes in caves as Old Chips, playing in queerbo pop-punk band Babyteeth and performing as one half of synth pop duo Fimo. In the past she's been the mastermind behind the romantic jangle of Polyester (fka as Kip McGrath), and one third of queer DJ trio PWB . She is currently host of 95bFM's illustrious chart show, the 95bFM Top 10.",
+      "img": "/images/Amamelia.jpg",
+      "video": "https://www.youtube.com/embed/8LQvrQf-vEU",
       "socialMedia": {
-        "twitter": "https://twitter.com/lizstokedstokes",
-        "instagram": "https://www.instagram.com/lizstokedstokes/",
-        "facebook": "https://www.facebook.com/thebethsnz/",
-        "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin",
-        "bandcamp": "https://thebethsnz.bandcamp.com/music"
+        "twitter": "https://twitter.com/Mealy_Worm",
+        "instagram": "",
+        "facebook": "https://www.facebook.com/amamelianz/",
+        "spotify": "https://open.spotify.com/artist/7BjYtpKbFrgy8EX8REsjhW?si=qfA3AMyORyOFZtLhJCBF8Q",
+        "bandcamp": "https://amamelia.bandcamp.com/"
       }
     },
     {
       "id": 3,
-      "name": "Amamelia",
-      "bio": "New Zealand four-piece The Beths channel their friendship into high-energy guitar pop with a smart lyrical bite. 2018 was their breakout year, beginning with signing to Carpark Records and Dew Process, before releasing the internationally acclaimed debut album Future Me Hates Me, which was heralded as one the stand-out music releases of that year. The Beths have toured relentlessly on the back of Future Me Hates Me, getting audiences hooked on their ebullient sound. After selling out shows across Australia, New Zealand, North America, the UK and Europe in 2018, the band are proving to be one of the most in-demand live acts on the planet.",
-      "img": "0019363669_10.jpg",
-      "video": "https://www.youtube.com/embed/8LQvrQf-vEU",
+      "name": "AUDREY'S DANCE",
+      "bio": "A weird and wonderful aural concoction comprised of vibraphones, synths, and drum machines, Audrey’s Dance provide the soundtrack to the electric dreams you always wished you could have. Comprised of members of Carnivorous Plant Society, Tiny Ruins and other local Tãmaki Makaurau favourites, this is a group you do not want to miss!",
+      "img": "/images/AudreysDance.jpg",
+      "video": "",
       "socialMedia": {
-        "twitter": "https://twitter.com/lizstokedstokes",
-        "instagram": "https://www.instagram.com/lizstokedstokes/",
-        "facebook": "https://www.facebook.com/thebethsnz/",
-        "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin",
-        "bandcamp": "https://thebethsnz.bandcamp.com/music"
+        "twitter": "",
+        "instagram": "https://www.instagram.com/audreysdanceband/",
+        "facebook": "https://www.facebook.com/Audreys-Dance-480420772127630/",
+        "spotify": "",
+        "bandcamp": ""
       }
     },
     {
       "id": 4,
-      "name": "Baby Zionov",
+      "name": "BABY ZIONOV",
       "bio": "New Zealand four-piece The Beths channel their friendship into high-energy guitar pop with a smart lyrical bite. 2018 was their breakout year, beginning with signing to Carpark Records and Dew Process, before releasing the internationally acclaimed debut album Future Me Hates Me, which was heralded as one the stand-out music releases of that year. The Beths have toured relentlessly on the back of Future Me Hates Me, getting audiences hooked on their ebullient sound. After selling out shows across Australia, New Zealand, North America, the UK and Europe in 2018, the band are proving to be one of the most in-demand live acts on the planet.",
       "img": "/bandphotos/BabyZionov.jpg",
-      "video": "https://www.youtube.com/embed/lvYrJxNwW5I",
+      "video": "https://www.youtube.com/embed/0Xd8mm87EZg",
       "socialMedia": {
-        "twitter": "https://twitter.com/lizstokedstokes",
-        "instagram": "https://www.instagram.com/lizstokedstokes/",
-        "facebook": "https://www.facebook.com/thebethsnz/",
-        "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin",
-        "bandcamp": "https://thebethsnz.bandcamp.com/music"
+        "twitter": "https://twitter.com/babyzionov",
+        "instagram": "https://www.instagram.com/babyzionov/",
+        "facebook": "https://www.facebook.com/babyzionov/",
+        "spotify": "https://open.spotify.com/artist/4RLTd4Vi9dfNeEKMnmylaO?si=lOx41DDJTveJZJeZhcgCKw",
+        "bandcamp": "https://babyzionov.bandcamp.com/"
       }
     },
     {
       "id": 5,
-      "name": "Dateline",
-      "bio": "New Zealand four-piece The Beths channel their friendship into high-energy guitar pop with a smart lyrical bite. 2018 was their breakout year, beginning with signing to Carpark Records and Dew Process, before releasing the internationally acclaimed debut album Future Me Hates Me, which was heralded as one the stand-out music releases of that year. The Beths have toured relentlessly on the back of Future Me Hates Me, getting audiences hooked on their ebullient sound. After selling out shows across Australia, New Zealand, North America, the UK and Europe in 2018, the band are proving to be one of the most in-demand live acts on the planet.",
-      "img": "/images/Dateline.jpg",
-      "video": "https://www.youtube.com/embed/lvYrJxNwW5I",
+      "name": "THE BATS",
+      "bio": "The Bats must hold an all-time record in New Zealand (if not the world) as a band that has survived with the same line-up consistently for 38 years. No split ups and reforming for nostalgia’s sake.They’ve clocked up 9 albums - each one evolving with new material from the prolific songwriting hand of Robert Scott. The Bats singer songwriter/guitarist, Robert Scott and bassist/producer Paul Kean both reside in the New Zealand Music Hall of Fame for their achievements, respectively with The Clean and Toy Love. Joined by Kaye Woodward on lead guitar/backing vocals and drummer Malcolm Grant, this combination produces a surprisingly wide range of material with songs from twisted wistful folk to psychedelic rock to bouncy twee pop. But whatever the song style, The Bats’ sound is always distinctively and unmistakably The Bats - the mark of a great band comfortable with who they.",
+      "img": "/bandphotos/THEBATS.jpg",
+      "video": "https://www.youtube.com/embed/xC4SX4c50Ig",
       "socialMedia": {
-        "twitter": "https://twitter.com/lizstokedstokes",
-        "instagram": "https://www.instagram.com/lizstokedstokes/",
-        "facebook": "https://www.facebook.com/thebethsnz/",
-        "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin",
-        "bandcamp": "https://thebethsnz.bandcamp.com/music"
+        "twitter": "https://twitter.com/theBatsNZ/",
+        "instagram": "https://www.instagram.com/thebatsnz/",
+        "facebook": "https://www.facebook.com/thebats.co.nz/",
+        "spotify": "https://open.spotify.com/artist/2YvNi4oPdBgD45gc1UycxW?si=DhX8CsmSTL-PZAvaWN54HA",
+        "bandcamp": "https://thebats.bandcamp.com/"
       }
     },
     {
       "id": 6,
-      "name": "K M T P",
-      "bio": "New Zealand four-piece The Beths channel their friendship into high-energy guitar pop with a smart lyrical bite. 2018 was their breakout year, beginning with signing to Carpark Records and Dew Process, before releasing the internationally acclaimed debut album Future Me Hates Me, which was heralded as one the stand-out music releases of that year. The Beths have toured relentlessly on the back of Future Me Hates Me, getting audiences hooked on their ebullient sound. After selling out shows across Australia, New Zealand, North America, the UK and Europe in 2018, the band are proving to be one of the most in-demand live acts on the planet.",
-      "img": "0019363669_10.jpg",
-      "video": "https://www.youtube.com/embed/lvYrJxNwW5I",
+      "name": "BEASTWARS",
+      "bio": "In a parallel dimension Beastwars would have just wrapped up their first ever tour of the UK and Europe. 3 weeks playing festivals and small rock clubs throughout the UK, Germany, France, Poland, Austria, Italy, Slovenia and Switzerland. Unfortunately, these plans and everyone else's intentions for 2020 have been seriously scuppered. But the show must go on! Having sold out shows on their August tour in Auckland and Wellington the band are stoked to be playing Others Way 2020 for fans that missed out on tickets to their Whammy Bar show. The band will be digging deep into their repertoire from all four albums including last years number one record 'IV' and possibly including a new song or two written during lockdown.",
+      "img": "/bandphotos/Beastwars.jpg",
+      "video": "https://www.youtube.com/embed/M_Ieh5Er3aw",
       "socialMedia": {
-        "twitter": "https://twitter.com/lizstokedstokes",
-        "instagram": "https://www.instagram.com/lizstokedstokes/",
-        "facebook": "https://www.facebook.com/thebethsnz/",
-        "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin",
-        "bandcamp": "https://thebethsnz.bandcamp.com/music"
+        "twitter": "https://twitter.com/beastwarsband",
+        "instagram": "https://www.instagram.com/beastwarsband/",
+        "facebook": "https://www.facebook.com/beastwars666",
+        "spotify": "https://open.spotify.com/artist/7xERCiJiUTzPj6X4hRRGh4?si=jSZf_gxsRk6lPofpGGeh5A",
+        "bandcamp": "https://beastwars.bandcamp.com/"
       }
-    }
+    },
+    {
+      "id": 7,
+      "name": "COOTIE CUTIES",
+      "bio": "Formed in the depths of mount Roskill,  3 punk rock mums, Shannon, Kelsie, and Annie had a dream -To take up space and make cute queer feminist punk. Cootie Cuties made their debut late 2019 opening for international internet sensations Crywank. By February 2020 they braved the desert road all the way to Wellington for Waitangi Wastefest. After heavy boardroom negotiations with Auckland’s favorite surf punks JANG, Cootie Cuties won shared custody of drummer Alex. The conditions of the agreement were that they wouldn’t feed him after midnight  for fear of him turning into a gremlin. Drawing from a range of influences from Madonna to Jawbreaker, Cootie Cuties give you something to shake your booty to. Juxtaposed with lyrics about Menstrual Freedom and addressing the issue of domestic violence leaving you with something to think about. ",
+      "img": "/bandphotos/CootieCuties.jpg",
+      "video": "https://www.youtube.com/embed/mlaSA0YDM1Q",
+      "socialMedia": {
+        "twitter": "",
+        "instagram": "https://www.instagram.com/cootiecuties/",
+        "facebook": "https://www.facebook.com/cootiecuties/",
+        "spotify": "",
+        "bandcamp": ""
+      }
+    },
+    {
+      "id": 8,
+      "name": "DARTZ",
+      "bio": "DARTZ are the band from Wellington, New Zealand. Since igniting onto the Welly scene in 2019 with punk bangers to burn and a live show frothier than a shaky pour of Lion Red at the local RSA, the DARTZ boys have definitively set about to become the best party band that Aotearoa has to offer. Channelling the classic Kiwi pub rock vibes of yesteryear alongside landlord-induced anxieties and a healthy interest in pinging, DARTZ have quickly gained recognition in Wellington for a top-tier first year that included the release of debut EP No Matter Whatz, sharing the stage with Aussie legends The Chats twice, playing a world record 14 Crate Day house parties in one day, and the luscious lyricism of “24 beers and 2 free hands” becoming just as iconic in the capital as rowdy Wednesday nights, Mittens and high-qual café nachos.",
+      "img": "/bandphotos/CootieCuties.jpg",
+      "video": "https://www.youtube.com/embed/luhCD_o5Ebk",
+      "socialMedia": {
+        "twitter": "",
+        "instagram": "https://www.instagram.com/smokedartz/",
+        "facebook": "https://www.facebook.com/smokedartz/",
+        "spotify": "https://open.spotify.com/artist/0ekrcj2YAoYh52dJzcvKJi?si=yoUfNWagRWe-LaAkuj8VSQ",
+        "bandcamp": ""
+      }
+    },
+    {
+      "id": 9,
+      "name": "DATELINE",
+      "bio": "Dateline is the musical project of Katie Everingham, a musician and songwriter currently based in Hastings. Her band is made up of the cream of Auckland's indie and alternative crop featuring Callum Devlin (Hans Pucket), Priya Sami (fka Trip Pony, Sami Sisters) and Ruby Walsh (Lips, Trip Pony). Earlier in the year Dateline supported US artist Jaysom and their scorching set was recorded and released as Dateline Live! The EP comes off the back of two hot singles, If You Want It and Such A Bitch. Those songs were recorded by Dateline's original band members Elizabeth Stokes (The Beths) Robert Bruce (The Naenae Express) and Ruby Walsh (Trip Pony). Before the year is over Dateline will hit the studio for another round of recording!",
+      "img": "/images/Dateline.jpg",
+      "video": "https://www.youtube.com/embed/q-gJ3Fqts0w",
+      "socialMedia": {
+        "twitter": "",
+        "instagram": "https://www.instagram.com/dateline2.0/",
+        "facebook": "https://www.facebook.com/Dateline2.0/",
+        "spotify": "https://open.spotify.com/artist/1qmkqOcRV8vy61b2zBBeFm?si=Sr__jEuaRUKHrqucvz5zJw",
+        "bandcamp": "https://dateline.bandcamp.com/"
+      }
+    },
+    {
+      "id": 10,
+      "name": "DEAD FAMOUS PEOPLE",
+      "bio": "Dead Famous People began in the Jervois Rd flat of singer and songwriter Dons Savage in 1986. Dons and keyboard player Biddy Leyland had previously played in Auckland's stroppy girl band 'Freudian Slips'.Shortly after this they signed to Flying Nun after Chris Knox happened upon their song 'Barlow's house'. Following a local buzz around the band, they promptly relocated to London at the invitation of Billy Bragg who had heard them on the radio in Auckland while on a NZ tour. They played regularly in London and recorded a second EP and an album which were well received by the English music press. With Dead famous people members eventually pulling in different directions, Savage returned home to NZ and continued to write songs, settling in a central suburb to raise son Harry. In 2018 a chance meeting in a London club between a longtime DFP fan and Fire records boss James Nicholls, resulted in the signing of DFP to Fire records, after James requested and heard new demos. Their first offering via Fire is the aptly titled album 'Harry' due out on October 9th 2020.",
+      "img": "/images/deadfamouspeople.jpg",
+      "video": "https://www.youtube.com/embed/NU6qBS0m2bo",
+      "socialMedia": {
+        "twitter": "",
+        "instagram": "",
+        "facebook": "https://www.facebook.com/deadfamouspeopleofficial/",
+        "spotify": "https://open.spotify.com/artist/3R6JWhh0dvSFVLS0E1rQSN?si=u7uYYA2jR46Z3Jpg4sn7mA",
+        "bandcamp": "https://deadfamouspeoplefire.bandcamp.com/"
+      }
+    },
+    {
+      "id": 11,
+      "name": "DICK MOVE",
+      "bio": "Dick Move are a 5 piece socialist-party-punk group from Tāmaki Makaurau (New Zealand). They perform short and not so sweet tracks about (insert social injustice issues of the 21st century) thinly veiled as a good time with hooks that remind you of the B-52's played with the speed of a hardcore band. Expect their DIY debut album lovingly produced, recorded and mixed by Peter Ruddell (Wax Chattels, Sulfate) in the second part of 2020.",
+      "img": "/images/DickMove.jpg",
+      "video": "https://www.youtube.com/embed/gksQPQBNLMk",
+      "socialMedia": {
+        "twitter": "",
+        "instagram": "https://www.instagram.com/dick_move_dick_pics/",
+        "facebook": "https://www.facebook.com/DickMoverz/",
+        "spotify": "https://open.spotify.com/artist/4y32anHRxQ5DXUQYomokdU?si=MDKB8KakQ0SWNUmat117WQ",
+        "bandcamp": "https://dickmove2.bandcamp.com/"
+      }
+    }, 
+    {
+      "id": 12,
+      "name": "DIGGY DUPÉ",
+      "bio": "Diggy Dupé has come a long way from the teenage days of making music with his cousin ReddxRozaay, using the most basic of tools that included a motorola phone and singstar microphone. A finalist for Best Hip Hop Act at the 2019 Vodafone New Zealand Music Awards for his 2018 EP Island Time, the talented rapper  is set to release his full length debut That’s Me, That’s Team on 28 August. Since announcing arriving on the scene with his debut EP K.O.T.I.C (Kids Of The Inner City) in 2017, Diggy Dupé has become a core member of the Auckland hip hop community. While some of his peers represent South Auckland or the city’s Westside, for Diggy Dupé, inspiration and stories are always about being a Central Auckland Polynesian kid. Family, his Niuean heritage, gentrification and identity are recurring themes throughout his releases.",
+      "img": "/images/DiggyDupe.jpg",
+      "video": "https://www.youtube.com/embed/y142q5gEgl8",
+      "socialMedia": {
+        "twitter": "https://twitter.com/DiggyDupe",
+        "instagram": "https://www.instagram.com/diggydupe/",
+        "facebook": "https://www.facebook.com/diggydupe/",
+        "spotify": "https://open.spotify.com/artist/4H3PAXVo7CJWQj30ndGKSn?si=WUuNmUGuR_iFg-hI0tc4bw",
+        "bandcamp": "https://renaissancemusicnz.bandcamp.com/album/island-time"
+      }
+    }  
   ]
 }
