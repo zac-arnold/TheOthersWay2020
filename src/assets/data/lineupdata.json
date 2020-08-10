@@ -338,18 +338,158 @@
     },
     {
       "id": 25,
-      "name": "LOVE SQUARE",
-      "bio": "The hottest horn section to stalk K Road are joined by a fiery young drummer named Karen Hu to take you on a musical journey from Africa to Aotearoa via the Caribbean. Electric pianos pulse along with simmering percussion beneath trumpet crescendos buffeted by gale force sax solos. The stars of Carnivorous Plant Society and Hopetoun Brown cross the streams to capture the ghosts of Ethio-jazz before splicing in their own antipodean rhythms. When Nick Atkinson and Finn Scholes aren't traversing icy mountains they're plotting perfect set-lists littered with ripping bluesy goodness. This brand new trio are about to flam a rimshot right up in your aroma. Come for the high notes, stay for the beats!",
-      "img": "/images/LoveSquare.jpeg",
-      "video": "",
+      "name": "MAXINE FUNKE",
+      "bio": "For over a decade, Maxine Funke has cut an idiosyncratic path as a singer-songwriter, all the while avoiding the parochial retreads of that worn-out label. Funke's music is intimate and deeply intelligent, buoyed by a sense of effortlessness that belies a scrupulous attention to the smallest of details.",
+      "img": "/images/MaxineFunke.png",
+      "video": "https://www.youtube.com/embed/MBFRIjVqAEk",
       "socialMedia": {
         "twitter": "",
-        "instagram": "",
+        "instagram": "https://www.instagram.com/maxinefunke/",
         "facebook": "https://www.facebook.com/funk.co.nz/",
-        "spotify": "https://open.spotify.com/artist/6fXQBrSejNYEPtf2dewtqC?si=N7qBWhL7Qn-PrD0Fg05Kzg",
+        "spotify": "",
+        "bandcamp": "https://maxinefunke.bandcamp.com/"
+      }
+    },
+    {
+      "id": 26,
+      "name": "MO MUSE",
+      "bio": "Mo Muse made waves in the NZ hip-hop scene late 2019 with his debut full-length The First Generation LP which was met with critical acclaim. Since then he’s completed a nationwide tour, released 5 music videos off the LP, and with 2 live RNZ covers Mo Muse has solidified his name in NZ music. The introduction of BLKCTY earlier this year, with hip-hop household names JessB, Raiza Biza, Abdul Kay & Blaze the Emperor has seen the release of tracks 'FUNDS Pt. II' and 'FLYING' accompanied with a couple of slick, cinematic music visuals. Somali-Kiwi rapper Mo Muse has his fans' undivided attention. His latest slice '2020 Freestyle' for example is a three-minute, platinum exhibition of Aotearoa writing talent and flow, impossible to tear your ears away from. With a new project forecasted for the end of the year, and more tracks with BLKCITY to follow, Mo Muse is one to watch.",
+      "img": "/images/MoMuse.jpg",
+      "video": "https://www.youtube.com/embed/2elOw5fKTdE",
+      "socialMedia": {
+        "twitter": "https://twitter.com/MoMuse_",
+        "instagram": "https://www.instagram.com/momuse__/",
+        "facebook": "https://www.facebook.com/MoMuseMusic/",
+        "spotify": "https://open.spotify.com/artist/4OptyR6wBQOytbSfrwWErR?si=Ji1VfV92Qjm9Q0v2t85vtA",
         "bandcamp": ""
       }
     },
+    {
+      "id": 27,
+      "name": "NA NOISE",
+      "bio": "Na Noise is the project from the minds of Yolanda Fagan and Hariet Ellis, who have more recently been joined by Christopher Varnham (Street Chant) on organ/drums/percussion. The duo-come-trio play fuzzed up pop numbers, with layers of high energy, lo-fi vocals and catchy strings. The Tāmaki Makaurau based group have jammed together in BOZO, Vincent H.L, Echo Ohs and Thee Crockettes, making Na Noise a natural next step with a symbiotic sound between bass, guitar and dual vocals. Expect melancholic songs that are sweet and heartbreakingly fun.",
+      "img": "/images/NaNoise.jpg",
+      "video": "https://www.youtube.com/embed/FOiHSgO6s7Y",
+      "socialMedia": {
+        "twitter": "",
+        "instagram": "https://www.instagram.com/nanoise/",
+        "facebook": "https://www.facebook.com/nanoiseband/",
+        "spotify": "https://open.spotify.com/artist/0dN6pCwXfKnJ39Nv89kPGU?si=DGVHhPEhTb2nuMkRY3PBVA",
+        "bandcamp": "https://nanoise.bandcamp.com/"
+      }
+    },
+    {
+      "id": 28,
+      "name": "NADIA REID",
+      "bio": "Nadia Reid is praised the world over for her intimate, complex songwriting. She is described by The Guardian as ‘an understated, wise guide through uncertain territory’, while her lyrics are called ‘allegorical...brutally honest’ by The Revue. What brings Reid's lyrics to life is her unique voice and accompanying soundscapes that seem to at once evoke the rugged beaches and mountains of Aotearoa, the Port Chalmers harbour of her home, and the roaming, open territory of the road. In March of this year, Reid released her third full-length album ‘Out of My Province’ via her own label Slow Time Records in New Zealand and Spacebomb for the rest of the world. Performing a handful of release shows just prior to the March lockdown meant there was a brief moment to celebrate the release. The Line of Best Fit declared it Reid’s “most polished album to date” with Uncut calling it 'her best album yet', awarding it 8/10",
+      "img": "/images/NadiaReid.jpg",
+      "video": "https://www.youtube.com/embed/VoRc9nBYwHo",
+      "socialMedia": {
+        "twitter": "https://twitter.com/HelloNadiaReid",
+        "instagram": "https://www.instagram.com/hellonadiareid/",
+        "facebook": "https://www.facebook.com/hellonadiareid/",
+        "spotify": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn?si=h3pfirA0TzWX25coVRdi6A",
+        "bandcamp": "https://nadiareid.bandcamp.com/"
+      }
+    },
+    {
+      "id": 29,
+      "name": "NADIA REID",
+      "bio": "Nadia Reid is praised the world over for her intimate, complex songwriting. She is described by The Guardian as ‘an understated, wise guide through uncertain territory’, while her lyrics are called ‘allegorical...brutally honest’ by The Revue. What brings Reid's lyrics to life is her unique voice and accompanying soundscapes that seem to at once evoke the rugged beaches and mountains of Aotearoa, the Port Chalmers harbour of her home, and the roaming, open territory of the road. In March of this year, Reid released her third full-length album ‘Out of My Province’ via her own label Slow Time Records in New Zealand and Spacebomb for the rest of the world. Performing a handful of release shows just prior to the March lockdown meant there was a brief moment to celebrate the release. The Line of Best Fit declared it Reid’s “most polished album to date” with Uncut calling it 'her best album yet', awarding it 8/10",
+      "img": "/images/NadiaReid.jpg",
+      "video": "https://www.youtube.com/embed/VoRc9nBYwHo",
+      "socialMedia": {
+        "twitter": "https://twitter.com/HelloNadiaReid",
+        "instagram": "https://www.instagram.com/hellonadiareid/",
+        "facebook": "https://www.facebook.com/hellonadiareid/",
+        "spotify": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn?si=h3pfirA0TzWX25coVRdi6A",
+        "bandcamp": "https://nadiareid.bandcamp.com/"
+      }
+    },
+    {
+      "id": 30,
+      "name": "NOA RECORDS (feat. Hasji, LEAO, Leda’s Dream, Schofield Strangelove & Whyfi)",
+      "bio": "Presenting the Noa Records Whānau stage, finding a home at Audio Foundation for The Others Way festival 2020. The Noa Records Whānau Stage lineup consists of acts connected to the past, present and future of the Noa label, weaving between differing sonics and musical communities, featuring: the fluid, hyper-textural electronic sounds of Tāmaki Makaurau producer Hasji, eclectic frequencies from pan-Pacifican trio Sanguine playing a medley of Leao, Strangelove and WhyFi material + covers of songs connected to their musical whakapapa, and the ethereal avant-garde dream-jazz of Leda’s Dream with special guest Riki Gooch on drums and cymbals. Prepare to embark on this sonic waka with Noa Records, traversing through varying musical territories connected by the same ocean of sound.",
+      "img": "/images/Noa.jpg",
+      "video": "https://www.youtube.com/embed/RHUZKzLQuiU",
+      "socialMedia": {
+        "twitter": "",
+        "instagram": "https://www.instagram.com/noa.records/",
+        "facebook": "https://www.facebook.com/hellonadiareid/",
+        "spotify": "https://open.spotify.com/playlist/2c6uDpIlO3sudb6ek3L3yg?si=NhM9tOJDQ5W_AcBxJIPptg",
+        "bandcamp": "https://noarecords.bandcamp.com/"
+      }
+    },
+    {
+      "id": 31,
+      "name": "P.H.F",
+      "bio": "P.H.F. (formerly Perfect Hair Forever) is the home recording project of Auckland native, Joe Locke. After forming the project in 2012, Locke has had a prolific musical output and creative presence online. Inspired by the freedom to experiment exercised by bands like Deerhoof and Xiu Xiu and the resourcefulness of 80’s era hardcore, P.H.F. has created a sound that is both imaginative and utilitarian. Praised in the US and at home in NZ for his explosively unpredictable live shows and eclectic releases, P.H.F. are a force to be reckoned with. This spring P.H.F. will release New Metal, Locke's tenth full length with the project, which has completely overhauled P.H.F's sound yet again for the new decade. For New Metal, typical album conventions are thrown out the window in favor of a spontaneous mixtape atmosphere, as Locke offers some of his most raw and honest songwriting.",
+      "img": "/images/phf.jpg",
+      "video": "https://www.youtube.com/embed/33gXnvCe6Uw",
+      "socialMedia": {
+        "twitter": "https://twitter.com/suckthetrigger",
+        "instagram": "https://www.instagram.com/p.h.f/",
+        "facebook": "https://www.facebook.com/phfsux/",
+        "spotify": "https://open.spotify.com/artist/73vzL36ohUDVI5YPT5rVze?si=MWxA2OvAQKKFpAEpisyOTA",
+        "bandcamp": "https://perfecthairforever.bandcamp.com/music"
+      }
+    },
+    {
+      "id": 32,
+      "name": "PHOEBE RINGS",
+      "bio": "Despite having a mere three shows under their belts, Auckland dream-pop quartet Phoebe Rings have already earned rave reviews for their appearances. The group announced themselves with a spot at Outsider Sounds Festival earlier this year, and were quickly handpicked by The Beths to support at their sold out Powerstation show. Songwriter and frontperson Crystal Choi has another life as a sought after keys player, and has previously toured with the likes of Princess Chelsea, Jonathan Bree, and A.C. Freazy. Her experience fronting, orchestrating, and composing for avant-jazz combos has led to this magic place… the Phoebe Rings sound! With a lineup beautifully rounded out by Alex “A.C. Freazy” Freer, Simeon “Lucky Boy” Kavanagh-Vincent, and Benjamin Locke, Phoebe Rings are absolutely ones to watch this Others Way Festival.",
+      "img": "/images/PhoebeRings.jpg",
+      "video": "",
+      "socialMedia": {
+        "twitter": "",
+        "instagram": "https://www.instagram.com/phoeberings/",
+        "facebook": "https://www.facebook.com/phoeberings/",
+        "spotify": "",
+        "bandcamp": ""
+      }
+    },
+    {
+      "id": 33,
+      "name": "THE PHOENIX FOUNDATION (PLAYING 'BUFFALO' IN FULL)",
+      "bio": "The Phoenix Foundation have lived many lives. From high school distortion addicts to indie folk trippers to masters of motorik dream pop. It’s been five years since GUYD but that down time has been spent writing, recording, touring with the New Zealand Symphony Orchestra, creating the acclaimed soundtrack for Hunt For The Wilderpeople, building shrines to light, creating scores for VR, producing other bands, baking sourdough. For one special show at Other’s Way 2020, TPF will perform their 2010 cult album Buffalo in its entirety. This has never been done and probably wont happen again.",
+      "img": "/images/TPF.jpg",
+      "video": "https://www.youtube.com/embed/V_tCoSjtk6c",
+      "socialMedia": {
+        "twitter": "https://twitter.com/phoenixfound",
+        "instagram": "https://www.instagram.com/thephoenixfoundation/",
+        "facebook": "https://www.facebook.com/thephoenixfoundation/",
+        "spotify": "https://open.spotify.com/artist/0Rus0e2zrkY6T4E5IYFNsA?si=41QMtE6YSYWsyzx3EOAXnQ",
+        "bandcamp": "https://thephoenixfoundation.bandcamp.com/album/buffalo-10-year-anniversary-edition"
+      }
+    },
+    {
+      "id": 34,
+      "name": "REB FOUNTAIN & DAVE KHAN",
+      "bio": "'Reb Fountain is to be counted among our finest songwriters whose imagery is both personal and universal, and her command of a melody and a song transcends genre.' – Graham Reid, Elsewhere.co.nz. Award winning songwriter Reb Fountain was born in San Francisco and immigrated with her family from North America to Lyttelton — the quiet port town out of Christchurch that’s been fundamental to South Island’s folk scene, raising artists like Delaney Davidson, Marlon Williams and Hannah Harding (Aldous Harding).Performing alongside longtime collaborator and friend Dave Khan, the duo will perform cuts from the critically acclaimed self-titled album Reb Fountain, released in May 2020 on Flying Nun. ",
+      "img": "/images/RebFountain.jpg",
+      "video": "https://www.youtube.com/embed/8p-y6MYfLLk",
+      "socialMedia": {
+        "twitter": "https://twitter.com/rebfountain",
+        "instagram": "https://www.instagram.com/rebfountain/",
+        "facebook": "https://www.facebook.com/rebfountainmusic/",
+        "spotify": "https://open.spotify.com/artist/3wayc8vDx8ukvWV17IBZE1?si=tQGmaWRNSVaK2Sjmgbix-g",
+        "bandcamp": "https://rebfountain.bandcamp.com/"
+      }
+    },
+    {
+      "id": 35,
+      "name": "RIIKI",
+      "bio": "'What I really want is for people to see me and see a bit of themselves in me' says RIIKI. ‘Associated with melodic tendencies that reach a sweet spot’ (Sniffers NZ claim) and a refreshing blend of elegance meets edge, Raquel Abolins-Reid is indie-pop newcomer RIIKI. Raised in New Zealand’s creative capital city and now aged 20, RIIKI is still young, but has many stories to tell. One of her most recent releases ‘High Heights’ is a testimony to this as her wild creativity drew inspiration from encountering seagulls at the beach. Following her debut single ‘One Day’, ’High Heights’ is RIIKI’s second-ever release, co-produced by Simon Gooding (projects include P!nk, Dua Lipa and Migos) which stunned an appearance’s on various NZ charts. With a childhood centred around the performing arts, her vibrant persona on stage detaches her from others within her genre. 'I know that what I am working on right now will really mean something to others and I can’t wait for people to feel what I feel'.",
+      "img": "/images/RIIKI.jpg",
+      "video": "https://www.youtube.com/embed/j4fEzgA59pY",
+      "socialMedia": {
+        "twitter": "",
+        "instagram": "https://www.instagram.com/riikimusiic/",
+        "facebook": "https://www.facebook.com/riikimusiic/",
+        "spotify": "https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC?si=jbbu0VKESQquJeyuwOkNTg",
+        "bandcamp": ""
+      }
+    }
     
   ]
 }
