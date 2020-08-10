@@ -167,6 +167,189 @@
         "spotify": "https://open.spotify.com/artist/4H3PAXVo7CJWQj30ndGKSn?si=WUuNmUGuR_iFg-hI0tc4bw",
         "bandcamp": "https://renaissancemusicnz.bandcamp.com/album/island-time"
       }
-    }  
+    },
+    {
+      "id": 13,
+      "name": "EARTH TONGUE",
+      "bio": "Sometimes music is supposed to feel weird and indescribable. It’s the moments of clarity within the dense, sonic mess that often feels the most satisfying. That’s the space that Earth Tongue occupy. At times, their songs are shrill and disorientating, other times their reverb-washed textures and instantly-familiar hooks can wrap you in a warm, loving embrace. The one consistent thread through their music, however, is the thick and all-encompassing fuzz. Guitarist Gussie Larkin (Mermaidens) has become a master of the fuzz-smothered riff, and along with Ezra Simons’ off-kilter drumming, they’ve been sending punters into transcendental states since they began gigging in their home town of Wellington in 2016. Following the release of their debut album Floating Being in 2019 via Bristol-based label Stolen Body Records, Earth Tongue toured Australia, the UK and Europe, picking up praise along the way from BBC Radio6, Bandcamp and headbangers all over the world." ,
+      "img": "",
+      "video": "https://www.youtube.com/embed/nw-bdf4cQNs",
+      "socialMedia": {
+        "twitter": "",
+        "instagram": "https://www.instagram.com/earthtongue/",
+        "facebook": "https://www.facebook.com/earthtongueband/",
+        "spotify": "https://open.spotify.com/artist/1dceZ2BGZBTMuI6BIL4EQ5?si=Tn3jedtfTRafnEsbllFc3Q",
+        "bandcamp": "https://earthtongue.bandcamp.com/"
+      }
+    },
+    {
+      "id": 14,
+      "name": "FINN ANDREWS (SOLO)",
+      "bio": "Since releasing his critically acclaimed debut solo album One Piece At A Time in early 2019, Finn Andrews (The Veils) has toured extensively playing churches and town halls throughout the UK, North America & Europe, and is now bringing a solo iteration of the show to The Others Way. The album featured the singles One By The Venom, Stairs To The Roof, and A Shot Through The Heart (Then Down In Flames). It was co-produced by Tom Healy at Auckland's The Lab and features contributions from Cass Basil & Alex Freer (both of Tiny Ruins), Reb Fountain and Nina Siegler on backing vocals, and string arrangements by Victoria Kelly. 2020 has seen the release of two album B-sides Body Of Light and My Lotus Flower & Me." ,
+      "img": "/images/FinnAndrews.jpg",
+      "video": "https://www.youtube.com/embed/rOjo-Nlg3_k",
+      "socialMedia": {
+        "twitter": "",
+        "instagram": "https://www.instagram.com/the_veils/",
+        "facebook": "https://www.facebook.com/theveils/",
+        "spotify": "https://open.spotify.com/artist/2jIndPKbG6XuyFjaTK4XqB?si=uUu480WHTTC0-3fkns1AKQ",
+        "bandcamp": ""
+      }
+    },
+    {
+      "id": 15,
+      "name": "GARETH THOMAS",
+      "bio": "Kiwi solo-artist Gareth Thomas is a master architect of indie pop simplicity. Whether it’s delivering the iconic singles Sophie and Buck It Up as part of legendary local act Goodshirt, or crafting clever computer-driven tunes under his own name, Gareth’s left of centre approach to a catchy hook has continued to evolve alongside his legacy as one of Aotearoa’s most innovative artists. Gareth’s passion for songwriting, production and a hefty dose of experimentation began in the late 1990’s. While most local bands were spending their hard earned cents on studio recording dme, Goodshirt looked to the future and officially became the first NZ band to record an album on a Pendum 486 PC, in a garden shed, and take it to the top of the charts. Gareth’s first computer may be long gone, along with the shed, but his proudly DIY and ‘outside the box’ approach to music making continues to underpin his work.",
+      "img": "/images/GarethThomas.jpg",
+      "video": "https://www.youtube.com/embed/_2Eluw2w9Yo",
+      "socialMedia": {
+        "twitter": "",
+        "instagram": "https://www.instagram.com/gareththomastunes/",
+        "facebook": "https://www.facebook.com/gareththomastunes/",
+        "spotify": "https://open.spotify.com/artist/3iIBHaGxpA8qPTlaHqKMk6?si=eSfrqDsuQFS-aY0ovjMQNA",
+        "bandcamp": "https://gareththomastunes.bandcamp.com/"
+      }
+    },
+    {
+      "id": 16,
+      "name": "GINO OCTOBER",
+      "bio": "South African born Gino October is a rapper, singer and producer. The Auckland based artists' sound playfully boarders the line of Classic Hip Hop, Modern Rap and Pop R&B.Armed with catchy hooks, witty word play and melodic cadence, Gino takes pride in ensuring impeccable story telling is consistently showcased throughout his work. His onstage energy and charisma completes his arsenal that will surely make him a billing staple.In 2019, Gino is poised to release his 3rd EP under the working title 'No More Time' which is due in quarter three. A slew of singles and features with both local and Australian artists to see out the year will most definitely cement him as an artist to keep tabs on in the years the come.",
+      "img": "/images/GinoOctober.jpg",
+      "video": "https://www.youtube.com/embed/LUD0A9_qxFI",
+      "socialMedia": {
+        "twitter": "https://twitter.com/GinoOctober",
+        "instagram": "https://www.instagram.com/cuppagino_/",
+        "facebook": "https://www.facebook.com/GinoOctoberMusic/",
+        "spotify": "https://open.spotify.com/artist/4mN7hfy6TrESlZz7DMNzQI?si=4tJhPYfjSjacpnNCbRGkMA",
+        "bandcamp": "https://gino94.bandcamp.com/"
+      }
+    },
+    {
+      "id": 17,
+      "name": "THE GOLDEN AWESOME",
+      "bio": "With their live shows rarer than a set of photocopied Kevin Shields chord sheets on ebay, The Golden Awesome are goldener and awesomer than ever. They are currently working on their second album with giant leaps both forward and back (the band continue to out-reverse-reverb each other), and intend to construct a loud and beautiful wall of noise between you and your everyday woes.",
+      "img": "/images/TheGoldenAwesome.jpg",
+      "video": "https://www.youtube.com/embed/w9_8VFAXCow",
+      "socialMedia": {
+        "twitter": "",
+        "instagram": "",
+        "facebook": "https://www.facebook.com/The-Golden-Awesome-281961935469/",
+        "spotify": "",
+        "bandcamp": "https://thegoldenawesome.bandcamp.com/"
+      }
+    },
+    {
+      "id": 18,
+      "name": "THEE GOLDEN GEESE",
+      "bio": "'Like a cross between Benny Hill and Aerosmith…' - Review of our recent show. Are you ready to party? If not, we understand. After all, we're a quartet of men in our 40s who love video games and staying home. Someone once said there's a fine line between stupid and clever, sadly Thee Golden Geese have no idea where that line is drawn. Frequently, they dance across it, sometimes tripping themselves up, sometimes getting confused and needing someone to help them have a nice sit down and a cup of tea. Featuring members of Magic Factory, The Conjurors, The Sneaks, Hang Loose, Fever Party, and lots of other ones you’ve definitely heard of, Thee Golden Geese are here to give it one more go before admitting we’re never going to be famous.",
+      "img": "/images/TheeGoldenGeese.jpg",
+      "video": "https://www.youtube.com/embed/cuoedwAnFDA",
+      "socialMedia": {
+        "twitter": "",
+        "instagram": "https://www.instagram.com/theegoldengeese/",
+        "facebook": "https://www.facebook.com/theegoldengeese/",
+        "spotify": "https://open.spotify.com/artist/6oY7YMq1jBlq2gMvVlWnqO?si=LzN_NLWBQ6-ik-1QihioGQ",
+        "bandcamp": "https://theegoldengeese.bandcamp.com/"
+      }
+    },
+    {
+      "id": 19,
+      "name": "GREEN GROVE",
+      "bio": "Green Grove is the musical project of Durham Fenwick, a musician and songwriter currently based in Auckland. Green Grove's music is for deep listening, creating lush electronic worlds inspired by Lounge and Library Music. Durham has wholeheartedly immersed himself into Auckland's independent music scene, initially as the guitarist of New Gum Sarn, and then swiftly into groups such as Guardian Singles, Bozo, PG/VG and as a live sound engineer at Whammy Bar. Following the release of 2019's Machine Music, Green Grove has pivoted to a contemplative sound palette, with his live set embodying mindful ambience and graceful soundscapes.",
+      "img": "/images/GreenGrove.jpeg",
+      "video": "https://www.youtube.com/embed/akYUCWIWPfs",
+      "socialMedia": {
+        "twitter": "",
+        "instagram": "https://www.instagram.com/darimfennick/",
+        "facebook": "https://www.facebook.com/Greengrov3/",
+        "spotify": "https://open.spotify.com/artist/4Or9cUnJdgeT8tQ0SP7PrV?si=76-IAgTjQlqqHJBBwt9KXw",
+        "bandcamp": "https://greengrove.bandcamp.com/"
+      }
+    },
+    {
+      "id": 20,
+      "name": "GUARDIAN SINGLES",
+      "bio": "She made the New Zealand hip hop scene take notice in 2017 when she delivered a compelling performance as the first female MC to perform on David Dallas' Red Bull 64 Bars, and backed it up with a string of tracks that showed the newcomer was here to stay.Now, with the release of her second EP New Views, JessB is much more than a promising talent. She's got streams in the millions, has spins on commercial and alternative radio. JessB has been expanding her world, spending time with creatives in London, Amsterdam, LA and New York, performing at Venice Biennale, in London and across Australia and Splendour in the Grass. When she hasn't been getting stamps on her passport, JessB has continued to infiltrate the New Zealand music industry from within - she's toured with role-model Ladi6 and supported SIX60 and Fat Freddy's drop, as well as international acts YG and Lil Simz and Stormzy.",
+      "img": "",
+      "video": "https://www.youtube.com/embed/zyZGxTnig8E",
+      "socialMedia": {
+        "twitter": "",
+        "instagram": "https://www.instagram.com/guardiansingles/",
+        "facebook": "https://www.facebook.com/guardiansingles/",
+        "spotify": "https://open.spotify.com/artist/3nJWuLiIgkOOvzrVtZOSPq?si=HsD9Udv2TJqxc_G1iS5SyQ",
+        "bandcamp": "https://guardiansingles.bandcamp.com/"
+      }
+    },
+    {
+      "id": 21,
+      "name": "JESSB",
+      "bio": "She made the New Zealand hip hop scene take notice in 2017 when she delivered a compelling performance as the first female MC to perform on David Dallas' Red Bull 64 Bars, and backed it up with a string of tracks that showed the newcomer was here to stay.Now, with the release of her second EP New Views, JessB is much more than a promising talent. She's got streams in the millions, has spins on commercial and alternative radio. JessB has been expanding her world, spending time with creatives in London, Amsterdam, LA and New York, performing at Venice Biennale, in London and across Australia and Splendour in the Grass. When she hasn't been getting stamps on her passport, JessB has continued to infiltrate the New Zealand music industry from within - she's toured with role-model Ladi6 and supported SIX60 and Fat Freddy's drop, as well as international acts YG and Lil Simz and Stormzy.",
+      "img": "/images/JessB.jpg",
+      "video": "https://www.youtube.com/embed/QawmnA9KdNE",
+      "socialMedia": {
+        "twitter": "https://twitter.com/ogjessb",
+        "instagram": "https://www.instagram.com/ogjessb/",
+        "facebook": "https://www.facebook.com/ogjessb/",
+        "spotify": "https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27?si=07DhhNRVSlaGbfpGYXq8eQ",
+        "bandcamp": "https://ogjessb.bandcamp.com/"
+      }
+    },
+    {
+      "id": 22,
+      "name": "JUNO IS",
+      "bio": "Dunedin solo artist Juno Is can be described as the new wave of dreamy psychedelic rock which can easily be likened to a crazy dream. She has recently released her debut EP ‘Creature Of Habit’. These tracks dive into the feeling of bad friendships and sinking memories while it pulls you in with it’s dark yet dreamy tones. Although she records alone, her songs are brought to life in the form of a 5 piece band, emulating the live sound of rich guitars, flowy basslines and energetic percussion. Be prepared to be captured in these dreamy sounds.",
+      "img": "/images/JunoIs.jpg",
+      "video": "https://www.youtube.com/embed/mQnZr-XzVfA",
+      "socialMedia": {
+        "twitter": "",
+        "instagram": "https://www.instagram.com/junoissnazzy/",
+        "facebook": "https://www.facebook.com/junoissnazzy/",
+        "spotify": "https://open.spotify.com/artist/4RkwZew0JM7GAyRLfbob9f?si=ia4x5Pw5Qjqi1tm1YcgD7Q",
+        "bandcamp": "https://junois.bandcamp.com/"
+      }
+    },
+    {
+      "id": 23,
+      "name": "K M T P",
+      "bio": "K M T P is the musical project of Keria Paterson, a musician and songwriter currently based in Auckland. Keria  didn’t discover music at a particular point in their life, it was always there, whether it was attending Flying Nun gigs with family as a kid and starting to sing and play guitar and piano at an early age. At high school, they connected with other passionate musicians and added bass and keyboards/synths to his repertoire, as well as beginning to experiment with recording and live music production. Before starting their own solo projects as K M T P, Paterson played with Auckland indie faves Polyester, as well as with Ethan Moore’s “bedroom stadium pop” project Dirty Pixels.",
+      "img": "/images/KMTP.jpeg",
+      "video": "https://www.youtube.com/embed/ROzMlIWMNbY",
+      "socialMedia": {
+        "twitter": "",
+        "instagram": "https://www.instagram.com/kmtpmakesmusic/",
+        "facebook": "https://www.facebook.com/kmtpmakesmusic/",
+        "spotify": "https://open.spotify.com/artist/3PW65WLXS6nvUaNquvoXvO?si=DRYvU2R6Q-KKQxCwOGdTRA",
+        "bandcamp": "https://kmtp.bandcamp.com/album/p-s-c-u-soon"
+      }
+    },
+    {
+      "id": 24,
+      "name": "LAIIKA",
+      "bio": "Consisting of best friends Grace Moller and Heidi Simpson, LAIIKA are a female pop-duo from Auckland with an exciting modern take on pop music that recounts the whimsical feelings of youth with cutting truth. The pair write and co-produce all of their songs making for an original and authentic personality. Ranging from upbeat funkalicious dance tracks to stripped back intimate power ballads. Sonically cohesive yet eclectic, LAIIKA draws inspiration from many different decades and genres such as 70’s disco, dreamy 80’s synth pop and punchy 2000’s classics.",
+      "img": "/images/laiika.jpeg",
+      "video": "",
+      "socialMedia": {
+        "twitter": "",
+        "instagram": "https://www.instagram.com/laiikamusic/",
+        "facebook": "https://www.facebook.com/laiikamusic/",
+        "spotify": "",
+        "bandcamp": ""
+      }
+    },
+    {
+      "id": 25,
+      "name": "LOVE SQUARE",
+      "bio": "The hottest horn section to stalk K Road are joined by a fiery young drummer named Karen Hu to take you on a musical journey from Africa to Aotearoa via the Caribbean. Electric pianos pulse along with simmering percussion beneath trumpet crescendos buffeted by gale force sax solos. The stars of Carnivorous Plant Society and Hopetoun Brown cross the streams to capture the ghosts of Ethio-jazz before splicing in their own antipodean rhythms. When Nick Atkinson and Finn Scholes aren't traversing icy mountains they're plotting perfect set-lists littered with ripping bluesy goodness. This brand new trio are about to flam a rimshot right up in your aroma. Come for the high notes, stay for the beats!",
+      "img": "/images/LoveSquare.jpeg",
+      "video": "",
+      "socialMedia": {
+        "twitter": "",
+        "instagram": "",
+        "facebook": "https://www.facebook.com/funk.co.nz/",
+        "spotify": "https://open.spotify.com/artist/6fXQBrSejNYEPtf2dewtqC?si=N7qBWhL7Qn-PrD0Fg05Kzg",
+        "bandcamp": ""
+      }
+    },
+    
   ]
 }
