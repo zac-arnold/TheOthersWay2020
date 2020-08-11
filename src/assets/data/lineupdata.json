@@ -326,7 +326,7 @@
       "id": 24,
       "name": "LAIIKA",
       "bio": "Consisting of best friends Grace Moller and Heidi Simpson, LAIIKA are a female pop-duo from Auckland with an exciting modern take on pop music that recounts the whimsical feelings of youth with cutting truth. The pair write and co-produce all of their songs making for an original and authentic personality. Ranging from upbeat funkalicious dance tracks to stripped back intimate power ballads. Sonically cohesive yet eclectic, LAIIKA draws inspiration from many different decades and genres such as 70’s disco, dreamy 80’s synth pop and punchy 2000’s classics.",
-      "img": "/images/laiika.jpeg",
+      "img": "/images/LoveSquare.jpeg",
       "video": "",
       "socialMedia": {
         "twitter": "",
@@ -338,6 +338,20 @@
     },
     {
       "id": 25,
+      "name": "LOVE SQUARE",
+      "bio": "The hottest horn section to stalk K Road are joined by a fiery young drummer named Karen Hu to take you on a musical journey from Africa to Aotearoa via the Caribbean. Electric pianos pulse along with simmering percussion beneath trumpet crescendos buffeted by gale force sax solos. The stars of Carnivorous Plant Society and Hopetoun Brown cross the streams to capture the ghosts of Ethio-jazz before splicing in their own antipodean rhythms. When Nick Atkinson and Finn Scholes aren't traversing icy mountains they're plotting perfect set-lists littered with ripping bluesy goodness. This brand new trio are about to flam a rimshot right up in your aroma. Come for the high notes, stay for the beats!",
+      "img": "/images/laiika.jpeg",
+      "video": "",
+      "socialMedia": {
+        "twitter": "",
+        "instagram": "",
+        "facebook": "https://www.facebook.com/funk.co.nz/",
+        "spotify": "https://open.spotify.com/artist/6fXQBrSejNYEPtf2dewtqC?si=t_uvZhsWQxq2iouR9fLaQw",
+        "bandcamp": ""
+      }
+    },
+    {
+      "id": 26,
       "name": "MAXINE FUNKE",
       "bio": "For over a decade, Maxine Funke has cut an idiosyncratic path as a singer-songwriter, all the while avoiding the parochial retreads of that worn-out label. Funke's music is intimate and deeply intelligent, buoyed by a sense of effortlessness that belies a scrupulous attention to the smallest of details.",
       "img": "/images/MaxineFunke.png",
@@ -351,7 +365,7 @@
       }
     },
     {
-      "id": 26,
+      "id": 27,
       "name": "MO MUSE",
       "bio": "Mo Muse made waves in the NZ hip-hop scene late 2019 with his debut full-length The First Generation LP which was met with critical acclaim. Since then he’s completed a nationwide tour, released 5 music videos off the LP, and with 2 live RNZ covers Mo Muse has solidified his name in NZ music. The introduction of BLKCTY earlier this year, with hip-hop household names JessB, Raiza Biza, Abdul Kay & Blaze the Emperor has seen the release of tracks 'FUNDS Pt. II' and 'FLYING' accompanied with a couple of slick, cinematic music visuals. Somali-Kiwi rapper Mo Muse has his fans' undivided attention. His latest slice '2020 Freestyle' for example is a three-minute, platinum exhibition of Aotearoa writing talent and flow, impossible to tear your ears away from. With a new project forecasted for the end of the year, and more tracks with BLKCITY to follow, Mo Muse is one to watch.",
       "img": "/images/MoMuse.jpg",
@@ -365,7 +379,7 @@
       }
     },
     {
-      "id": 27,
+      "id": 28,
       "name": "NA NOISE",
       "bio": "Na Noise is the project from the minds of Yolanda Fagan and Hariet Ellis, who have more recently been joined by Christopher Varnham (Street Chant) on organ/drums/percussion. The duo-come-trio play fuzzed up pop numbers, with layers of high energy, lo-fi vocals and catchy strings. The Tāmaki Makaurau based group have jammed together in BOZO, Vincent H.L, Echo Ohs and Thee Crockettes, making Na Noise a natural next step with a symbiotic sound between bass, guitar and dual vocals. Expect melancholic songs that are sweet and heartbreakingly fun.",
       "img": "/images/NaNoise.jpg",
@@ -376,20 +390,6 @@
         "facebook": "https://www.facebook.com/nanoiseband/",
         "spotify": "https://open.spotify.com/artist/0dN6pCwXfKnJ39Nv89kPGU?si=DGVHhPEhTb2nuMkRY3PBVA",
         "bandcamp": "https://nanoise.bandcamp.com/"
-      }
-    },
-    {
-      "id": 28,
-      "name": "NADIA REID",
-      "bio": "Nadia Reid is praised the world over for her intimate, complex songwriting. She is described by The Guardian as ‘an understated, wise guide through uncertain territory’, while her lyrics are called ‘allegorical...brutally honest’ by The Revue. What brings Reid's lyrics to life is her unique voice and accompanying soundscapes that seem to at once evoke the rugged beaches and mountains of Aotearoa, the Port Chalmers harbour of her home, and the roaming, open territory of the road. In March of this year, Reid released her third full-length album ‘Out of My Province’ via her own label Slow Time Records in New Zealand and Spacebomb for the rest of the world. Performing a handful of release shows just prior to the March lockdown meant there was a brief moment to celebrate the release. The Line of Best Fit declared it Reid’s “most polished album to date” with Uncut calling it 'her best album yet', awarding it 8/10",
-      "img": "/images/NadiaReid.jpg",
-      "video": "https://www.youtube.com/embed/VoRc9nBYwHo",
-      "socialMedia": {
-        "twitter": "https://twitter.com/HelloNadiaReid",
-        "instagram": "https://www.instagram.com/hellonadiareid/",
-        "facebook": "https://www.facebook.com/hellonadiareid/",
-        "spotify": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn?si=h3pfirA0TzWX25coVRdi6A",
-        "bandcamp": "https://nadiareid.bandcamp.com/"
       }
     },
     {
@@ -533,7 +533,7 @@
       }
     },
     {
-      "id": 40,
+      "id": 39,
       "name": "SNOUTS",
       "bio": "Screamin’SkronkPlonk’n’Donk – Snouts! shriek splatter splinter and splat, shitting shards, sinking ships, slapping slops, slipping knots. Snouts! are Jeff Hendersnout (Superstarz), Chris O’Connsout (The Phoenix Foundation), Nich Cunningsnout (Tooms) and Jonny Marksnout (The All Seeing Hand).",
       "img": "/images/snouts.jpg",
@@ -547,7 +547,7 @@
       }
     },
     {
-      "id": 41,
+      "id": 40,
       "name": "UPPER HUTT POSSE",
       "bio": "Upper Hutt Posse (UHP) are a rap-reggae-funk fusion band who released the first rap record (E Tu) in Aotearoa in 1988 and were inducted into the Hall of Fame in 2018. Lead by co-founder/lead vocalist Te Kupu on guitar (or bass) with brother M.C. Wiya on bass/vocals, nowadays, the third original member Blue Dread is on percussion/backing vocals, and Te Kupu’s 12 year old daughter Ahurei sometimes appears on keyboards. Jeff Henderson is usually on saxophone and there’s various drummers. From 1989’s debut album Against The Flow to 2011’s Declaration Of Resistance - for over 30 years UHP have been creating powerful and inspirational music to challenge the status quo, giving Indigenous voice to progressive radicalism and revolutionary sociopolitical transformation everywhere.",
       "img": "/images/UHP.jpg",
@@ -561,7 +561,7 @@
       }
     },
     {
-      "id": 42,
+      "id": 41,
       "name": "VERA ELLEN",
       "bio": "Descendant of Polish refugees, Vera Ellen grew up in Naenae where she began writing her songs in her mum's garage. A believer in collective power and collaboration she was quickly drawn to performing in bands, starting a punk group with her friends called Gaol Bait who drew from Raincoats, Slits and channeled teenage frustration into screeches against patriarchy. From there she started Maple Syrup putting out several releases before moving to Los Angeles and starting Girl Friday with some friends she met at UCLA. While writing and performing in these projects Vera would return to her room, make songs on garageband and upload them to bandcamp. Upon returning to New Zealand post covid, Vera is taking all she has learnt through her bands and reconnecting with herself as a solo artist. Taking inspiration from Patti Smith, Joni Mitchell and Nick Cave her songs are emotionally raw and gutsy as she attempts to dismantle any barrier between audience and artist. Vera Ellen has been working on a full length record which she plans to release by the end of this year. The record touches on themes of gender fluidity, heartbreak and familial bonds.",
       "img": "/images/VERAELLEN.jpg",
@@ -575,7 +575,7 @@
       }
     },
     {
-      "id": 43,
+      "id": 42,
       "name": "VOOM",
       "bio": "",
       "img": "/images/voom.jpg",
