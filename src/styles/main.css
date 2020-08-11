@@ -70,13 +70,12 @@
 /* Artist Temmplate */
 
 .artistNav {
-  border-style: solid;
   width: 30vh;
   height: auto;
   float: left;
   font-size: 2vh;
-
-  ;
+  text-decoration: none!important;
+  color: black !important;
 }
 
 .header {
@@ -85,7 +84,14 @@
 }
 
 .imageContainer {
-  width: 100vh;
+  width: 100vh ;
   height: auto;
+  float: right;
+  border-radius: 100px;
 }
 
+.videoContainer {
+  width: 10vh;
+  height: auto;
+  float: right;
+}

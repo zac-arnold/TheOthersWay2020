@@ -13,10 +13,10 @@ export default function Artist({ pageContext }) {
     <div className="tobytext">
       <Header />
       <ArtistNav />
-      <h1>{name}</h1>
-      <SocialMedia socialMedia={socialMedia} />
-      <Bio bio={bio} />
       <PressPhoto img={img} />
+
+      <h1>{name}</h1><SocialMedia socialMedia={socialMedia} />  
+      <Bio bio={bio} />
       <Youtube video={video} id={id} />
     </div>
   )
