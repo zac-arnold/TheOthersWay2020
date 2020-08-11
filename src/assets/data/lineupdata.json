@@ -269,8 +269,8 @@
     {
       "id": 20,
       "name": "GUARDIAN SINGLES",
-      "bio": "She made the New Zealand hip hop scene take notice in 2017 when she delivered a compelling performance as the first female MC to perform on David Dallas' Red Bull 64 Bars, and backed it up with a string of tracks that showed the newcomer was here to stay.Now, with the release of her second EP New Views, JessB is much more than a promising talent. She's got streams in the millions, has spins on commercial and alternative radio. JessB has been expanding her world, spending time with creatives in London, Amsterdam, LA and New York, performing at Venice Biennale, in London and across Australia and Splendour in the Grass. When she hasn't been getting stamps on her passport, JessB has continued to infiltrate the New Zealand music industry from within - she's toured with role-model Ladi6 and supported SIX60 and Fat Freddy's drop, as well as international acts YG and Lil Simz and Stormzy.",
-      "img": "",
+      "bio": "Auckland’s Guardian Singles are a post-punk band known for their electrifying live shows, hypnotic melodies and ferocious energy.  The band began as a seasonal super group playing only in the summertime when all members were in the country. Original members Thom Burton (Wilberforces, SoccerPractise), Fiona Campbell (Vivian Girls, Chain and The Gang, Coolies),Durham Fenwick (Green Grove) have recently been joined on bass by  Yolanda Fagan  (Echo Ohs/ Na Noise) and are fresh from a North Island tour promoting their eponymous debut album.",
+      "img": "/images/GS.jpeg",
       "video": "https://www.youtube.com/embed/zyZGxTnig8E",
       "socialMedia": {
         "twitter": "",
@@ -489,7 +489,104 @@
         "spotify": "https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC?si=jbbu0VKESQquJeyuwOkNTg",
         "bandcamp": ""
       }
+    },
+    {
+      "id": 36,
+      "name": "RYAN FISHERMAN",
+      "bio": "Ryan Fisherman is the moniker of Christchurch musician Ryan Chin - local artist, multi-instrumentalist, producer and session musician. Ryan stepped into the music scene circa 2013 as the drummer for indie electronic act Doprah. A band that received high praise from NZ audiences and critics. Over the years Ryan further developed his skills as a drummer, guitarist, bassist and singer by working with many local artists such as Ben Woods, Emily Fairlight, Fraser Ross, Adam Hattaway, Tom Maxwell and more. Now flying solo as a songwriter, The Fisherman has supported international & local acts such as Julia Jacklin, Lawrence Arabia, Kane Strang &amp; Flip Grater. He has currently finished his first studio album 'Vibe' that features over twenty NZ musicians including Marlon Williams, Candice Milner, Indi & Motte. The album was recorded at the Sitting Room with good friend & renowned producer Ben Edwards.",
+      "img": "/images/RyanFisherman.jpg",
+      "video": "https://www.youtube.com/embed/jT-oH4dwRKA",
+      "socialMedia": {
+        "twitter": "",
+        "instagram": "https://www.instagram.com/ryan_fisherman/",
+        "facebook": "https://www.facebook.com/ryanfishermanofficial/",
+        "spotify": "https://open.spotify.com/artist/6Yatr2ihR1ZiIsPVLJuqgv?si=kNUEZ6L_SUqqMThLORLxvg",
+        "bandcamp": "https://ryanfisherman.bandcamp.com/"
+      }
+    },
+    {
+      "id": 37,
+      "name": "SAME NAME CONFUSION",
+      "bio": "'It’s raw, energetic and eccentric.… Same Name Confusion should be leaders of surreal performances and one not to be missed.' - Radio 13. Same Name Confusion make alternative music about the everyday. A must-see live event; expect rollicking adaptations of their starkly observational songs and a performance like no other, spearheaded by frontman Luke Courtney. Brand new single ESP (Telepathy) out now.",
+      "img": "/images/SNC.jpg",
+      "video": "https://www.youtube.com/embed/ylV2vCQk_Ms",
+      "socialMedia": {
+        "twitter": "",
+        "instagram": "https://www.instagram.com/samenameconfusion/",
+        "facebook": "https://www.facebook.com/samenameconfusion/",
+        "spotify": "https://open.spotify.com/artist/2mjmLc7HYT3Lj3slwRUWQm?si=qYqMDJ-xRMq2JhNkcyubGQ",
+        "bandcamp": "https://samenameconfusion.bandcamp.com/"
+      }
+    },
+    {
+      "id": 38,
+      "name": "SNOUTS",
+      "bio": "Screamin’SkronkPlonk’n’Donk – Snouts! shriek splatter splinter and splat, shitting shards, sinking ships, slapping slops, slipping knots. Snouts! are Jeff Hendersnout (Superstarz), Chris O’Connsout (The Phoenix Foundation), Nich Cunningsnout (Tooms) and Jonny Marksnout (The All Seeing Hand).",
+      "img": "/images/snouts.jpg",
+      "video": "https://www.youtube.com/embed/ylV2vCQk_Ms",
+      "socialMedia": {
+        "twitter": "",
+        "instagram": "",
+        "facebook": "",
+        "spotify": "",
+        "bandcamp": "https://iiiirecords.bandcamp.com/album/snouts-ep"
+      }
+    },
+    {
+      "id": 40,
+      "name": "SNOUTS",
+      "bio": "Screamin’SkronkPlonk’n’Donk – Snouts! shriek splatter splinter and splat, shitting shards, sinking ships, slapping slops, slipping knots. Snouts! are Jeff Hendersnout (Superstarz), Chris O’Connsout (The Phoenix Foundation), Nich Cunningsnout (Tooms) and Jonny Marksnout (The All Seeing Hand).",
+      "img": "/images/snouts.jpg",
+      "video": "https://www.youtube.com/embed/ylV2vCQk_Ms",
+      "socialMedia": {
+        "twitter": "",
+        "instagram": "",
+        "facebook": "",
+        "spotify": "",
+        "bandcamp": "https://iiiirecords.bandcamp.com/album/snouts-ep"
+      }
+    },
+    {
+      "id": 41,
+      "name": "UPPER HUTT POSSE",
+      "bio": "Upper Hutt Posse (UHP) are a rap-reggae-funk fusion band who released the first rap record (E Tu) in Aotearoa in 1988 and were inducted into the Hall of Fame in 2018. Lead by co-founder/lead vocalist Te Kupu on guitar (or bass) with brother M.C. Wiya on bass/vocals, nowadays, the third original member Blue Dread is on percussion/backing vocals, and Te Kupu’s 12 year old daughter Ahurei sometimes appears on keyboards. Jeff Henderson is usually on saxophone and there’s various drummers. From 1989’s debut album Against The Flow to 2011’s Declaration Of Resistance - for over 30 years UHP have been creating powerful and inspirational music to challenge the status quo, giving Indigenous voice to progressive radicalism and revolutionary sociopolitical transformation everywhere.",
+      "img": "/images/UHP.jpg",
+      "video": "https://www.youtube.com/embed/V2u7yHD_d-o",
+      "socialMedia": {
+        "twitter": "",
+        "instagram": "",
+        "facebook": "https://www.facebook.com/Upper-Hutt-Posse-234293626592269/",
+        "spotify": "",
+        "bandcamp": "https://upperhuttposse.bandcamp.com/"
+      }
+    },
+    {
+      "id": 42,
+      "name": "VERA ELLEN",
+      "bio": "Descendant of Polish refugees, Vera Ellen grew up in Naenae where she began writing her songs in her mum's garage. A believer in collective power and collaboration she was quickly drawn to performing in bands, starting a punk group with her friends called Gaol Bait who drew from Raincoats, Slits and channeled teenage frustration into screeches against patriarchy. From there she started Maple Syrup putting out several releases before moving to Los Angeles and starting Girl Friday with some friends she met at UCLA. While writing and performing in these projects Vera would return to her room, make songs on garageband and upload them to bandcamp. Upon returning to New Zealand post covid, Vera is taking all she has learnt through her bands and reconnecting with herself as a solo artist. Taking inspiration from Patti Smith, Joni Mitchell and Nick Cave her songs are emotionally raw and gutsy as she attempts to dismantle any barrier between audience and artist. Vera Ellen has been working on a full length record which she plans to release by the end of this year. The record touches on themes of gender fluidity, heartbreak and familial bonds.",
+      "img": "/images/VERAELLEN.jpg",
+      "video": "",
+      "socialMedia": {
+        "twitter": "",
+        "instagram": "",
+        "facebook": "",
+        "spotify": "https://open.spotify.com/artist/49x9krjMRVeW1rH4IQL43B?si=_ZkJxB8ASleMkqtEEFMb8Q",
+        "bandcamp": "https://veraellen.bandcamp.com/"
+      }
+    },
+    {
+      "id": 43,
+      "name": "VOOM",
+      "bio": "",
+      "img": "/images/voom.jpg",
+      "video": "https://www.youtube.com/embed/87r3fONhddY",
+      "socialMedia": {
+        "twitter": "",
+        "instagram": "",
+        "facebook": "https://www.facebook.com/voomnz/",
+        "spotify": "https://open.spotify.com/artist/7sOkM3Mc3xPGcM7kGCjDtS?si=ibh11DzHSMOiznDlR2a4rA",
+        "bandcamp": "https://voom.bandcamp.com/"
+      }
     }
-    
   ]
 }
