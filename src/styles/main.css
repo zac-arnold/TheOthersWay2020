@@ -71,9 +71,12 @@
 
 .artistNav {
   border-style: solid;
-  width: 20vh;
+  width: 30vh;
   height: auto;
   float: left;
+  font-size: 2vh;
+
+  ;
 }
 
 .header {

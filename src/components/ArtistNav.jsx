@@ -9,7 +9,6 @@ export default function ArtistNav () {
   return (
     <>
     <div className="tobytext artistNav">
-      <p >Artist Nav</p>
       <ul>
         {lineupdata.artists.map(key => (
         <li key={key.id}><Link to={`/lineup/${key.name}`}>{key.name}</Link></li>
