@@ -14,7 +14,7 @@ export default function ArtistNav () {
         <li key={key.id}><Link to={`/lineup/${key.name}`}>{key.name}</Link></li>
         ))}
       </ul>
-      </div>
+    </div>
     </>
  
   )
